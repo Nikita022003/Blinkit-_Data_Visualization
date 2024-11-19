@@ -3,12 +3,12 @@
 This repository contains a Blinkit Dashboard, which provides a detailed visualization of sales, outlet performance, and product analysis.
 
 
-
-Overview
+OVERVIEW
 
 The dashboard is designed to monitor and analyze key metrics, enabling data-driven decisions for optimizing performance and tracking trends across various outlets.
 
-Key Metrics
+
+KEY METRICS
 
 Total Sales: $1.20M
 
@@ -19,7 +19,7 @@ Number of Items: 9K
 Average Rating: 4
 
 
-Key Visualizations
+KEY VISUALIZATIONS
 
 1. Sales Trends: A line graph representing sales growth from 2014 to 2022.
 
@@ -36,7 +36,7 @@ Key Visualizations
 5. Outlet Types: Insights into different outlet types and their contribution.
 
 
-Tools and Techniques Used
+TOOLS AND TECHNIQUES USED
 
 - Power BI Desktop: For data visualization and dashboard creation.
 - Power BI: Designed the dashboard with interactive charts and visualizations.
