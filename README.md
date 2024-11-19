@@ -6,7 +6,6 @@ Overview
 
 The dashboard is designed to monitor and analyze key metrics, enabling data-driven decisions for optimizing performance and tracking trends across various outlets.
 
-
 Key Metrics
 
 Total Sales: $1.20M
